@@ -4,5 +4,5 @@ resource "azurerm_resource_group" "rg-dhondu" {
   }
   resource "azurerm_resource_group" "rg-dhondu" {
     name="my-rg2"
-    location="westus"
+    location="centralindia"
   }
